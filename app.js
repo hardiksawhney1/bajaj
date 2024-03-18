@@ -1,4 +1,4 @@
-// Step 1: Create Investment Account
+
 async function createInvestmentAccount() {
     const url = "https://customer-analytics-34146.my.salesforce-sites.com/services/apexrest/createAccount";
     const headers = {
